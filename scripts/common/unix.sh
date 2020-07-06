@@ -7,6 +7,8 @@ echo "Installing utilities for unix development"
 brew install pstree
 brew install the_silver_searcher
 brew install wget
+brew install fzf
+yes | $(brew --prefix)/opt/fzf/install
 
 # For developers of shell scripts
 brew install jq
