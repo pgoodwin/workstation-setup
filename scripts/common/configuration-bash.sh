@@ -19,7 +19,9 @@ source ~/.bash_it/bash_it.sh
 bash-it enable completion git
 bash-it enable plugin autojump
 bash-it enable plugin ssh
-bash-it enable plugin rbenv
+bash-it enable plugin man
+bash-it enable plugin rvm
+bash-it enable plugin battery
 bash-it enable completion ssh
 bash-it enable completion cf_cli
 
