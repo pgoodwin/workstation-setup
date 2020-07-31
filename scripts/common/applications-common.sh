@@ -39,4 +39,5 @@ brew cask install macvim
 brew cask install jetbrains-toolbox --force # guard against pre-installed jetbrains-toolbox
 brew cask install visual-studio-code
 brew cask install atom
+brew cask install licecap
 set -e
