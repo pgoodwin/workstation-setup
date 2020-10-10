@@ -12,3 +12,5 @@ yes | $(brew --prefix)/opt/fzf/install
 
 # For developers of shell scripts
 brew install jq
+
+brew install lastpass-cli
