@@ -9,6 +9,7 @@ brew install the_silver_searcher
 brew install wget
 brew install fzf
 yes | $(brew --prefix)/opt/fzf/install
+brew install tealdeer
 
 # For developers of shell scripts
 brew install jq
