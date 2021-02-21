@@ -1,3 +1,3 @@
 echo
 echo "Installing dotnet development tools"
-brew install --cask visual-studio
+brew cask install visual-studio

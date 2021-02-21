@@ -9,14 +9,14 @@ echo "Installing Designer applications"
 
 # Graphic editing tools
 
-brew install --cask adobe-creative-cloud
-brew install --cask sketch
+brew cask install adobe-creative-cloud
+brew cask install sketch
 
 # Screen recording tools
 
-brew install --cask recordit
-brew install --cask skitch
-brew install --cask licecap
-brew install --cask screenflow
+brew cask install recordit
+brew cask install skitch
+brew cask install licecap
+brew cask install screenflow
 
 set -e

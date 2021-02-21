@@ -9,7 +9,7 @@ gem install bundler
 rbenv rehash
 
 # guard against pre-installed rubymine
-brew install --cask rubymine --force
+brew cask install rubymine --force
 
 source ${WORKSTATION_SETUP_HOME}/scripts/common/download-pivotal-ide-prefs.sh
 pushd ~/workspace/pivotal_ide_prefs/cli
