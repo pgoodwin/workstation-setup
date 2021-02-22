@@ -6,7 +6,7 @@
 # Fail immediately if any errors occur
 set -e
 
-source ${WORKSTATION_SETUP_HOME}/_init.sh
+source ./_init.sh
 
 echo "Caching sudo password..."
 sudo -K

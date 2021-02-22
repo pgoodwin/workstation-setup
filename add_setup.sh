@@ -8,7 +8,7 @@
 # Fail immediately if any errors occur
 set -e
 
-source ${WORKSTATION_SETUP_HOME}/_init.sh
+source ./_init.sh
 
 # For each command line argument, try executing the corresponding script in opt-in/
 for var in "$@"
